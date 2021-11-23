@@ -2,4 +2,4 @@ Collin Van der Vorst portfolio website
 
 some projects
 
-contactblock
+contactblockgi
